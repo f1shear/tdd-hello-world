@@ -5,7 +5,7 @@ def hello_world():
 
 
 def greet(name):
-    return ""
+    return "Hello %s" % name
 
 
 if __name__ == '__main__':
